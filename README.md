@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hello
 
-<!--
-**roniherschmann/roniherschmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Roni Herschmann, and I'm currently a Forward Deployed Software Engineer at QualiTau Inc in the Bay Area.
 
-Here are some ideas to get you started:
+My repos are private, but my website has more info: https://roniherschmann.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects:
+- Network Engineering
+- Image Recognition / ML Fine-tuning
+- Compliance Automation
+- and more...
+
+## Education
+1. BA Computer Science - Columbia University (graduated)
+2. BA Business - Tel Aviv University (graduated)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/roni-h-488aba18b/)
+
+[Email](roniherschmann@gmail.com)
+
+[Email](rlh2177@columbia.edu)
+
+Feel free to reach out!
