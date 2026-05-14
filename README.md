@@ -4,7 +4,7 @@ My name is Roni Herschmann, and I'm currently a Forward Deployed Software Engine
 
 My repos are private, but my website has more info: https://roniherschmann.com/
 
-## Current Projects:
+## Current Projects
 - Network Engineering
 - Image Recognition / ML Fine-tuning
 - Compliance Automation
