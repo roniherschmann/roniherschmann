@@ -19,6 +19,6 @@ My repos are private, but my website has more info: https://roniherschmann.com/
 
 [Email](mailto:roniherschmann@gmail.com)
 
-[Email](mailto:rlh2177@columbia.edu)
+[Edu Email](mailto:rlh2177@columbia.edu)
 
 Feel free to reach out!
