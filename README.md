@@ -17,8 +17,8 @@ My repos are private, but my website has more info: https://roniherschmann.com/
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/roni-h-488aba18b/)
 
-[Email](roniherschmann@gmail.com)
+[Email](mailto:roniherschmann@gmail.com)
 
-[Email](rlh2177@columbia.edu)
+[Email](mailto:rlh2177@columbia.edu)
 
 Feel free to reach out!
