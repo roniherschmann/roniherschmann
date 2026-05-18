@@ -12,7 +12,7 @@ My repos are private, but my website has more info: https://roniherschmann.com/
 
 ## Education
 Columbia University in the City of New York:
-Dual Degree Program — B.A. in Computer Science; B.A. in Business
+- Dual Degree Program — B.A. in Computer Science; B.A. in Business
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/roni-h-488aba18b/)
