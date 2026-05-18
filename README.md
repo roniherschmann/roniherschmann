@@ -11,8 +11,7 @@ My repos are private, but my website has more info: https://roniherschmann.com/
 - and more...
 
 ## Education
-1. BA Computer Science - Columbia University (graduated)
-2. BA Business - Tel Aviv University (graduated)
+Columbia University Dual Degree Program: BA - Computer Science & BA - Business (graduated)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/roni-h-488aba18b/)
