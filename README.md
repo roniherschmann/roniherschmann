@@ -4,12 +4,6 @@ My name is Roni Herschmann, and I'm currently a Forward Deployed Software Engine
 
 My repos are private, but my website has more info: https://roniherschmann.com/
 
-## Current Projects
-- Network Engineering
-- Image Recognition / ML Fine-tuning
-- Compliance Automation
-- and more...
-
 ## Education
 Columbia University in the City of New York:
 - Dual Degree Program — B.A. in Computer Science; B.A. in Business
