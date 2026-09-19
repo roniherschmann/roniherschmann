@@ -1,11 +1,11 @@
 ## Hello
 
-My name is Roni Herschmann, and I'm currently a Forward Deployed Software Engineer at QualiTau Inc in the Bay Area.
-
+I’m Roni Herschmann, a Forward Deployed Software Engineer at QualiTau and an MS student in AI at Columbia, focused on robotics.
 My repos are private, but my website has more info: https://roniherschmann.com/
 
 ## Education
 Columbia University in the City of New York:
+- MSc AI & Robotics (In Progress)
 - Dual Degree Program — B.A. in Computer Science; B.A. in Business
 
 ## Contact
